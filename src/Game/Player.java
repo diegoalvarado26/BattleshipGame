@@ -21,6 +21,5 @@ public class Player {
 	// Methods //
 	//---------//
 	
-	public 
 
 }
